@@ -62,7 +62,7 @@ if  not checkbj:
             else:
                 sum+=i
         if sum<=21:
-            print("Five link!")
+            print("Five-card Charlie!")
     else:
         for i in point:
             if sum<=10 and i==11:
